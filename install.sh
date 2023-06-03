@@ -68,5 +68,4 @@ else
   title "${a102:-INSTALLATION COMPLETED}"
   print_center -ama "${a103:-Type the command \nudp\n to show menu}"
   msg -bar
-  time_reboot 10
-fi
+ done
